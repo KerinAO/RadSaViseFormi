@@ -1,0 +1,12 @@
+C:\Users\Ramseeys\source\repos\RadSaViseFormi\RadSaViseFormi\bin\Debug\RadSaViseFormi.exe.config
+C:\Users\Ramseeys\source\repos\RadSaViseFormi\RadSaViseFormi\bin\Debug\RadSaViseFormi.exe
+C:\Users\Ramseeys\source\repos\RadSaViseFormi\RadSaViseFormi\bin\Debug\RadSaViseFormi.pdb
+C:\Users\Ramseeys\source\repos\RadSaViseFormi\RadSaViseFormi\obj\Debug\RadSaViseFormi.csproj.AssemblyReference.cache
+C:\Users\Ramseeys\source\repos\RadSaViseFormi\RadSaViseFormi\obj\Debug\RadSaViseFormi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ramseeys\source\repos\RadSaViseFormi\RadSaViseFormi\obj\Debug\RadSaViseFormi.FormStudenti.resources
+C:\Users\Ramseeys\source\repos\RadSaViseFormi\RadSaViseFormi\obj\Debug\RadSaViseFormi.FormUnosNovogStudenta.resources
+C:\Users\Ramseeys\source\repos\RadSaViseFormi\RadSaViseFormi\obj\Debug\RadSaViseFormi.Properties.Resources.resources
+C:\Users\Ramseeys\source\repos\RadSaViseFormi\RadSaViseFormi\obj\Debug\RadSaViseFormi.csproj.GenerateResource.cache
+C:\Users\Ramseeys\source\repos\RadSaViseFormi\RadSaViseFormi\obj\Debug\RadSaViseFormi.csproj.CoreCompileInputs.cache
+C:\Users\Ramseeys\source\repos\RadSaViseFormi\RadSaViseFormi\obj\Debug\RadSaViseFormi.exe
+C:\Users\Ramseeys\source\repos\RadSaViseFormi\RadSaViseFormi\obj\Debug\RadSaViseFormi.pdb
